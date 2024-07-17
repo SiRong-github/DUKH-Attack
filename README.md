@@ -1,6 +1,10 @@
 # University Subject
 This is a project for COMP10002 Foundations of Algorithms of the University of Melbourne.
 
+# Demo
+
+https://github.com/user-attachments/assets/53f55de3-50d6-44f0-98b1-f85f971aee78
+
 # About the Project
 ## File Purpose
 The program decrypts an encrypted message while knowing some details on its generation.
